@@ -1,0 +1,7 @@
+{
+    "require": {
+        "intervention/image": "^2.5",
+        "fzaninotto/faker": "^1.9",
+        "ksubileau/color-thief-php": "^1.4"
+    }
+}
